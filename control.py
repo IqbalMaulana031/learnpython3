@@ -17,7 +17,7 @@ for i in range(100):
 i = 0
 while i < 10:
     print(i)
-    i+=1
+    i += 1
 
 # force break on i == 50
 for i in range(100):
